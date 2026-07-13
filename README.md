@@ -82,16 +82,6 @@ I'm looking for opportunities to grow as a **Full Stack Developer** while contri
 
 ---
 
-## 🏆 Conquistas
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KG-S&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1"/>
-
-</p>
-
----
-
 ## 💻 Tecnologias
 
 ### Linguagens
