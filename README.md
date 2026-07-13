@@ -31,7 +31,7 @@ I'm looking for opportunities to grow as a **Full Stack Developer** while contri
 **Federal Institute of São Paulo (IFSP)**
 
 **Analysis and Systems Development (ADS)**
-*2025 – Present*
+*2024 – Present*
 
 **Technical Degree in Internet Computing**
 *Completed*
