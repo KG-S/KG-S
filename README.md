@@ -53,11 +53,11 @@ I'm looking for opportunities to grow as a **Full Stack Developer** while contri
 ## 📊 Estatísticas GitHub
 
 <p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=KG-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KG-S&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KG-S&layout=compact&langs_count=8&theme=highcontrast"/>
-
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KG-S&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
