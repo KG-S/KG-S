@@ -1,21 +1,52 @@
-<h1 align="center">Olá! 👋 Eu sou o Kauã Gabriel</h1>
+# Hi, I'm Kauã Gabriel 👋
 
-<p align="center">
-💻 Desenvolvedor Full Stack em formação <br>
-🎓 Estudante de Análise e Desenvolvimento de Sistemas - IFSP <br>
-🔬 Bolsista PET/ADS <br>
-🚀 Apaixonado por Desenvolvimento Web, Back-end e Cybersegurança
-</p>
+Full Stack Developer focused on modern web applications, backend development and cybersecurity.
+
+I'm a Software Development student from Brazil currently studying **Analysis and Systems Development (ADS)** at the **Federal Institute of São Paulo (IFSP)** and working as a **PET/ADS Scholar**, where I contribute to academic and collaborative software projects.
+
+I have experience building web applications using **Java, Node.js, React and TypeScript**, developing REST APIs, responsive interfaces and full-stack solutions. I'm also passionate about cybersecurity and enjoy studying secure software development and web application security.
+
+Currently, I contribute to projects such as the **Cybersecurity Lab**, where I develop educational content and practical cybersecurity materials, and I also participate in the development and maintenance of systems and websites within PET/ADS.
+
+I'm looking for opportunities to grow as a **Full Stack Developer** while contributing to projects that create real impact through technology.
 
 ---
 
-## 🚀 Sobre mim
+## 💼 Experience
 
-- 🎓 Estudante de ADS no IFSP
-- 🔬 Bolsista do Programa de Educação Tutorial (PET/ADS)
-- 🌱 Estudando Java, Node.js, React, TypeScript e Cybersegurança
-- 💡 Interesse em Desenvolvimento Full Stack e Engenharia de Software
-- 📚 Sempre aprendendo novas tecnologias
+### PET/ADS — Full Stack Developer
+**Oct 2024 – Present**
+
+- Develop and maintain institutional websites and web applications.
+- Build responsive interfaces with React and TypeScript.
+- Develop backend features using Node.js and Java.
+- Work with Git, GitHub and collaborative development workflows.
+- Participate in the organization and development of projects such as WECOMP.
+- Produce educational content and software solutions for academic projects.
+
+---
+
+## 🎓 Education
+
+**Federal Institute of São Paulo (IFSP)**
+
+**Analysis and Systems Development (ADS)**
+*2025 – Present*
+
+**Technical Degree in Internet Computing**
+*Completed*
+
+---
+
+## 🚀 Interests
+
+- Full Stack Development
+- Backend Engineering
+- Software Architecture
+- REST APIs
+- Cybersecurity
+- Cloud Computing
+- Open Source
 
 ---
 
