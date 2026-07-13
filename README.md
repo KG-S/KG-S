@@ -130,7 +130,7 @@ I'm looking for opportunities to grow as a **Full Stack Developer** while contri
 
 <p>
 
-<a href="https://www.linkedin.com/in/kauã-go-silva">
+<a href="https://www.linkedin.com/in/kauãgosilva">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
