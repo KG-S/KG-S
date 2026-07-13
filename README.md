@@ -138,7 +138,7 @@ I'm looking for opportunities to grow as a **Full Stack Developer** while contri
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:k.gabriel@aluno.ifsp.edu.br">
+<a href="mailto:kauagosilva@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
